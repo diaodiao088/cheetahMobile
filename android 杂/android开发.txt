@@ -1,1 +1,8 @@
 https://github.com/389273716/android-skill-summary/
+
+//ANDROID ฒๅผþปฏ
+http://blog.csdn.net/jdsjlzx/article/details/51190604
+
+
+http://tech.meituan.com/mt-apk-adaptation.html
+
